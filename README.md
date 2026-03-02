@@ -1,11 +1,11 @@
-## Hi there 👋
 
-<!Hi
-Im sebastian mantilla. im 22 years old.
-About me: 
-ia student at riwi, i like programmaing
-and i play spotr. i like 
-**Jsebastian26/Jsebastian26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Im sebastian mantilla.
+## about me:
+im 22 years old.
+
+-ia student at riwi, i like programmaing
+-and i play sports.
+-i like 
 
 Here are some ideas to get you started:
 
