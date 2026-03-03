@@ -1,12 +1,11 @@
 
-# Im sebastian mantilla.
+# I'm Sebastian Mantilla.
 ## about me:
-im 22 years old.
+I'm 22 years old.
 
-im a student at riwi, i like programmaing
--and i play sport 
+I'm a student at riwi, I like programmaing
+-and I play sport 
 
-Here are some ideas to get you started:
 
 - 🌱 I'm currently learning Python
 - 🤔 I'm looking for help from my classmates
