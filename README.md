@@ -3,8 +3,10 @@
 ## about me:
 I'm 22 years old.
 
-I'm a student at riwi, I like programmaing
--and I play sport 
+- I'm a student at riwi, 
+- I like programmaing
+- I play sport
+- I like video games  
 
 
 - 🌱 I'm currently learning Python
